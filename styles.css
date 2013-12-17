@@ -1,0 +1,10 @@
+body {
+  font-family: Noto Sans, sans-serif;
+  color: #333;
+  line-height: 1.45;
+}
+
+#content {
+  max-width: 50em;
+  margin: 0 auto;
+}
